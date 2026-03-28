@@ -1,20 +1,18 @@
 # 👧 Sibei.Chen 的个人主页  
 
 ## 🌟 关于我  
-我是 Sibei.Chen，目前参与 **XJTLU AI+ESG 自动化报告生成** 项目，专注用数据科学推动可持续发展～  
+我是 Sibei.Chen，目前参与 **X** 项目，专注用数据科学推动可持续发展～  
 
-- 📚 研究方向：ESG 与 AI 融合、数据可视化  
+- 📚 研究方向：xxx与 AI 融合、数据可视化  
 - 🛠️ 技术栈：Python / NLP / 数据可视化  
 - 📫 联系我：[Sibei.Chen24@student.xjtlu.edu.cn](mailto:Sibei.Chen24@student.xjtlu.edu.cn)  
 
 
 ## 🚀 项目经历  
 ### AI+ESG 自动化报告生成  
-- 🔖 角色：团队成员  
 - ⏳ 时间：2025.6
 - 📌 现阶段任务：  
-  - 学习Github
-  - 研究行业 ESG 报告框架，为自动化生成做准备  
+
 
 
 ## 📦 仓库 & 作品  
@@ -28,7 +26,7 @@
 
 
 ## 📄 更多内容  
-后续会更新 ESG 项目进展、技术博客，欢迎 Star 我的仓库关注动态～  
+技术博客，欢迎 Star 我的仓库关注动态～  
 
 ---  
 
